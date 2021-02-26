@@ -1,5 +1,4 @@
 # Lab8
 
-Teresa Truong\n
-A14535980
+Teresa Truong A14535980
 
